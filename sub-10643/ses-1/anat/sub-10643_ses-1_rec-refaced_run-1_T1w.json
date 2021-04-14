@@ -54,5 +54,6 @@
     "VoxelSizeDim2": 0.9375,
     "Dim1Size": 256,
     "Dim2Size": 256,
-    "Dim3Size": 116
+    "Dim3Size": 116,
+    "NumVolumes": 1.0
 }
