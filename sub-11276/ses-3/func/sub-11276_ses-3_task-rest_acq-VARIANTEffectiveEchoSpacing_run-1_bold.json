@@ -25,6 +25,7 @@
     "SeriesNumber": 3,
     "AcquisitionTime": "14:34:4.000000",
     "AcquisitionNumber": 1,
+    "TaskName": "rest",
     "TriggerDelayTime": 359923,
     "SliceThickness": 4,
     "SpacingBetweenSlices": 4.5,

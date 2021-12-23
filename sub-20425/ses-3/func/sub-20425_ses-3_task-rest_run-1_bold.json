@@ -41,6 +41,7 @@
     "ReconMatrixPE": 128,
     "ParallelReductionFactorInPlane": 2,
     "EffectiveEchoSpacing": 0.000864,
+    "TaskName": "rest",
     "TotalReadoutTime": 0.109728,
     "PixelBandwidth": 968.75,
     "PhaseEncodingDirection": "j",

@@ -26,6 +26,7 @@
     "AcquisitionTime": "15:03:15.000000",
     "AcquisitionNumber": 1,
     "TriggerDelayTime": 359923,
+    "TaskName": "rest",
     "SliceThickness": 4,
     "SpacingBetweenSlices": 4.5,
     "SAR": 0.0166043,
