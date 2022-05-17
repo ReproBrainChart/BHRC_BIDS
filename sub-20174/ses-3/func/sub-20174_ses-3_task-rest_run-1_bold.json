@@ -26,7 +26,7 @@
     "SeriesNumber": 4,
     "AcquisitionTime": "14:53:8.000000",
     "AcquisitionNumber": 1,
-    "TaskName": "rest", 
+    "TaskName": "rest",
     "TriggerDelayTime": 359924,
     "SliceThickness": 4,
     "SpacingBetweenSlices": 4.5,
@@ -91,5 +91,6 @@
     "Dim1Size": 128,
     "Dim2Size": 128,
     "Dim3Size": 26,
-    "NumVolumes": 180
+    "NumVolumes": 180,
+    "ImageOrientation": "LAS+"
 }

@@ -54,5 +54,6 @@
     "Dim1Size": 256,
     "Dim2Size": 256,
     "Dim3Size": 156,
-    "NumVolumes": 1.0
+    "NumVolumes": 1.0,
+    "ImageOrientation": "RAS+"
 }
