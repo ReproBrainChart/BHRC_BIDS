@@ -1,1 +1,2 @@
 32f5c58f-db95-4f94-aff4-1de32ff23e23 archive-id=98f55d34-d001-40ac-8056-db2803d3280f autoenable=true encryption=none externaltype=ora name=PMACS-storage type=external url=ria+ssh://sciget.pmacs.upenn.edu:/project/RBC/RIA/BIDS timestamp=1619570900.607342s
+a1d38edd-ffc2-4174-a823-9aad95eb91ae autoenable=true bucket=fcp-indi datacenter=US encryption=none exporttree=no fileprefix=data/Projects/RBC/HRC_BIDS/ host=s3.amazonaws.com name=fcp-indi partsize=1GiB port=80 public=yes storageclass=STANDARD type=S3 timestamp=1675893454.880335s
