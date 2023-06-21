@@ -1,10 +1,9 @@
 ##################
-This is the neuroimaging dataset for the Brazilian High Risk Cohort of the INPD v0.8
-This dataset is NOT open licensed due to ethics comittee requirement.
-The sharing of this dataset and the use of the data contained in it requires the approaval of the HRC BOARD. 
-Please do NOT share with outside sources. The data is not to be used for purposes other than the proposed and approved study.
-The data contained in this version is not final and is subject to change. Patient ID are still being confirmed.
-Please check frequently to ensure you have the updated version.
-Last update: 07-21-2020
+This is the neuroimaging dataset for the The Brazilian High Risk Cohort Study for Childhood Psychiatric Disorders (BHRC)
+of the INPD v0.8. BHRC is a large community school-based study that is following children from Brazil since 2010. 
+This study obtained psychological, genetic, and neuroimaging data with the aim to investigate typical and atypical trajectories 
+of psychopathology and cognition over development.
 
-By Andre Zugman - andre.zugman@gmail.com/andre.zugman@nih.gov
+This version of the dataset was curated at the University of Pennsylvania by the Lifespan Informatics and Neuroimaging Center (PennLINC)
+as part of the “Reproducible Brain Chart” (RBC) Initiative.  RBC seeks to aggregate, organize QA, process, curate, and openly disseminate
+many of the largest cross-sectional studies of brain development.
