@@ -1,4 +1,4 @@
-## HRC RBC README
+## BHRC RBC README
 This is the neuroimaging dataset for the The Brazilian High Risk Cohort Study for Childhood Psychiatric Disorders (BHRC) 
 of the INPD v0.8. BHRC is a large community school-based study that is following children from Brazil since 2010. 
 This study obtained psychological, genetic, and neuroimaging data with the aim to investigate typical and atypical 
