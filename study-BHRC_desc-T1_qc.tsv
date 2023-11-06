@@ -1,4 +1,4 @@
-participantid	study	ses_id	euler	rater_1	rater_3	rater_4	rater_5	rater_6	across_rater_average	qc_determination
+participant_id	study	ses_id	euler	rater_1	rater_3	rater_4	rater_5	rater_6	across_rater_average	qc_determination
 sub-10618	BHRC	ses-1	-144	1	0.75				0.875	Artifact
 sub-10627	BHRC	ses-1	-58	0.75	1				0.875	Artifact
 sub-10631	BHRC	ses-1	-101	1	1				1	Pass
