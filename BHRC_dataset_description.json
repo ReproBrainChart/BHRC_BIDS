@@ -1,0 +1,48 @@
+{
+    "Acknowledgements": "The authors would like to thank the children and families for their participation, which made this research possible; the collaborators for the neuropsychological evaluation (Bruno Sini Scarpato, Sandra Lie Ribeiro do Valle and Carolina Araújo); Dr Robert Goodman for his research support regarding the DAWBA instrument procedures and Professor Heinrich Hasenack for the geocoding procedures.",
+    "Authors": [
+    "Giovanni Abrahão Salum",
+    "Ary Gadelha",
+    "Pedro Mario Pan",
+    "Tais Silveira Moriyama",
+    "Ana Soledade Graeff‐Martins",
+    "Ana Carina Tamanaha",
+    "Pedro Alvarenga", 
+    "Fernanda Valle Krieger",
+    "Bacy Fleitlich‐Bilyk",
+    "Andrea Jackowski",
+    "João Ricardo Sato",
+    "Elisa Brietzke",
+    "Guilherme Vanoni Polanczyk",
+    "Helena Brentani",
+    "Jair de Jesus Mari",
+    "Maria Conceição Do Rosário",
+    "Gisele Gus Manfro",
+    "Rodrigo Affonseca Bressan",
+    "Marcos Tomanik Mercadante",
+    "Eurípedes Constantino Miguel", 
+    "Luis Augusto Rohde"
+    ],
+    "BIDSVersion": "1.0.2",
+    "DatasetDOI": [
+        "https://doi.org/10.1002/mpr.1459",
+        "10.17605/OSF.IO/ER248"
+    ],
+    "Funding": [
+    "573974/2008‐0",
+    "2008/57896‐8",
+    "CNPq", 
+    "FAPESP", 
+    "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+    "Fundação de Amparo a Pesquisa do Estado do Rio Grande do Sul",
+    "CAPES",
+    "FAPERGS",
+    "302463/2011‐9"
+    ],
+    "HowToAcknowledge": "If you reference this dataset in your publications, please cite the DOIs listed above.",
+    "License": "CC BY-NC-SA",
+    "Name": "BHRC",
+    "ReferencesAndLinks": [
+       "Salum, G. A., Gadelha, A., Pan, P. M., Moriyama, T. S., Graeff-Martins, A. S., Tamanaha, A. C., Alvarenga, P., Valle Krieger, F., Fleitlich-Bilyk, B., Jackowski, A., Sato, J. R., Brietzke, E., Polanczyk, G. V., Brentani, H., de Jesus Mari, J., Do Rosário, M. C., Manfro, G. G., Bressan, R. A., Mercadante, M. T., … Rohde, L. A. (2015). High risk cohort study for psychiatric disorders in childhood: Rationale, design, methods and preliminary results. International Journal of Methods in Psychiatric Research, 24(1), 58–73. https://doi.org/10.1002/mpr.1459"
+    ]
+}
