@@ -6,37 +6,30 @@
         "LongName": "Study identifier",
         "Description": "The study in which this participant participated.",
         "Levels": {
-            "NKI": "Nathan Kline Institute - Rockland Sample"
+            "BHRC": "Brazil High Risk Cohort Study"
         }
     },
     "study_site": {
         "LongName": "Study site",
         "Description": "Participant's study recruitment site.",
         "Levels": {
-            "NKI": "Site 1 from NKI study."
+            "BHRC_1": "Site 1.",
+            "BHRC_2": "Site 2."
         }
     },
     "session": {
         "LongName": "Session",
         "Description": "Participant's imaging session.",
         "Levels": {
-            "BAS1": "Baseline 1 session from study NKI.",
-            "BAS2": "Baseline 2 session from study NKI.",
-            "BAS3": "Baseline 3 session from study NKI.",
-            "FLU1": "Followup 1 session from study NKI.",
-            "FLU2": "Followup 2 session from study NKI.",
-            "TRT": "Test-retest session from study NKI.",
+            "ses-1": "Session 1 from study BHRC."
+            "ses-2": "Session 2 from study BHRC."
         }
     },
     "wave": {
         "LongName": "Recruitment wave",
         "Description": "Participant's recruitment wave within the study.",
         "Levels": {
-            "BAS1": "Baseline 1 session from study NKI.",
-            "BAS2": "Baseline 2 session from study NKI.",
-            "BAS3": "Baseline 3 session from study NKI.",
-            "FLU1": "Followup 1 session from study NKI.",
-            "FLU2": "Followup 2 session from study NKI.",
+            "1": "Wave 1 from study BHRC."
         }
     },
     "age": {
