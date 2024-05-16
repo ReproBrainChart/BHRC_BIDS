@@ -84,17 +84,6 @@
             "5th Grade": "Completed 5th Grade",
             "6th Grade": "Completed 6th Grade",
             "7th Grade": "Completed 7th Grade",
-            "8th Grade": "Completed 8th Grade",
-            "9th Grade": "Completed 9th Grade",
-            "10th Grade": "Completed 10th Grade",
-            "11th Grade": "Completed 11th Grade",
-            "12th Grade": "Completed 12th Grade",
-            "High School Diploma": "Attained a High School Diploma (or GED?)",
-            "Some College": "Attended some college, but did not complete a degree.",
-            "Associate's Degree": "Completed an Associate's Degree",
-            "Bachelor's Degree": "Completed a Bachelor's Degree",
-            "Doctoral Degree": "Completed a Doctoral Degree",
-            "Professional Degree": "Completed a Professional Degree (e.g., XX)"
         }
     },
     "parent_1_education": {
