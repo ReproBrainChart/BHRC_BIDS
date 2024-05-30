@@ -17,7 +17,7 @@
             "BHRC_2": "Site 2."
         }
     },
-    "session": {
+    "session_id": {
         "LongName": "Session",
         "Description": "Participant's imaging session.",
         "Levels": {
